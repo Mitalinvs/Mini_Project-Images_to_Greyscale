@@ -1,1 +1,1 @@
-# Mini_Project-Images_to_Greyscale
+# 10 Images to Grey Scale (b/w) using OpenCV via downloading google images
